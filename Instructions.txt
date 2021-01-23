@@ -1,0 +1,5 @@
+place all the .iwi files from emblems or titles, whichever you're wanting to replace, inside here:  ".../Youriw4xDirectory/userraw/images"
+
+if you dont have the userraw or images folders, just create them. titles arent too great, sorry.
+
+-QueasyNurples
